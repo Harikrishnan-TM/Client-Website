@@ -528,22 +528,26 @@ h3.text-center {
 }
 ul.address li ul.agileits-address-text li {
   display: inline-block;
-  font-size: 1em;
-  color: rgb(25, 221, 123);
-  margin-top: 1em;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-shadow: #000;
+
+  color: rgb(241, 245, 12);
+  margin-rgb(243, 9, 9)
 }
 ul.address li ul.agileits-address-text li:nth-child(1) {
   width: 25%;
 }
 ul.address li ul.agileits-address-text li a {
-  color: rgb(43, 216, 95);
+  color: rgb(212, 247, 11);
+  text-shadow: #000;
 }
 .about-social {
   margin-top: 30px;
 }
 .about-social a span.fa {
   background: rgb(17, 0, 0);
-  color: #333;
+  color: rgb(167, 175, 54);
   font-size: 15px;
   outline-offset: 2px;
   outline: 2px solid #f3f3f3;
