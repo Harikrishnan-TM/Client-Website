@@ -529,14 +529,14 @@ h3.text-center {
 ul.address li ul.agileits-address-text li {
   display: inline-block;
   font-size: 1em;
-  color: rgb(7, 126, 66);
+  color: rgb(25, 221, 123);
   margin-top: 1em;
 }
 ul.address li ul.agileits-address-text li:nth-child(1) {
   width: 25%;
 }
 ul.address li ul.agileits-address-text li a {
-  color: rgb(16, 136, 52);
+  color: rgb(43, 216, 95);
 }
 .about-social {
   margin-top: 30px;
